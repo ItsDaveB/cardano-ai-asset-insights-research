@@ -19,6 +19,32 @@ Instead of storing the research, planning, and design documentation in a Google 
 
 Given the fast-moving landscape of AI advancements, I anticipate that some elements of this research and detailed project plan may evolve over time. However, the goal has always been to exceed the originally promised functionality and ensure that this is a futureproof solution that excels beyond initial expectations.
 
+## Referenced Sections
+
+To provide further technical clarity, I have compiled supporting documents detailing various aspects of the system.
+
+### 1. [Token Criteria](../../docs/token-criteria.md)
+
+Defines the selection parameters for tokens analyzed in the AI Trading Insights process.
+
+### 2. [Model Input Data](../../docs/model-input-data.md)
+
+Specifies the data sources, formats, and preprocessing steps required for valid processing.
+
+### 3. [Batch Process Design](../../docs/batch-process-design.md)
+
+Describes the scheduled cron job, data ingestion workflow, and processing.
+
+### 4. [Database Design](../../docs/database-design.md)
+
+Details the database schema, table structure, indexing strategies, and optimization.
+
+### 5. [Model Research](../../docs/model-research.md)
+
+Documents research on LLM methodologies, benchmarks and selection criteria.
+
+---
+
 I welcome any feedback or suggestions for improvement as I continue refining the design and moving towards implementation. Thank you for the opportunity to contribute to this innovative project.
 
 Best regards,  
