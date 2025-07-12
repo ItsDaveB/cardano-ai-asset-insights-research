@@ -1,4 +1,4 @@
-# AI Trading Insights
+# Cardano AI Asset Insights Research
 
 ## **Context & Motivation**
 
