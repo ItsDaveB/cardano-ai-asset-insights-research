@@ -1,4 +1,4 @@
-# Cardano AI Asset Insights
+# Cardano AI Asset Insights Design & Research
 
 AI-powered insights for Cardano native assets.  Combining token-level data with structured LLM-driven analysis to surface meaningful trading signals. The system is modular, automated, and designed for transparency, developer experience, and cross-platform growth.
 
